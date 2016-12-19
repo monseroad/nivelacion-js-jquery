@@ -49,3 +49,8 @@ $(document).ready(function(){
 			$('span').onload(); 
 		});
 	});
+
+//ETAPA 2
+ $(function(printNews) {
+        $('#agregar').text('NUEVAS RECETAS');
+      });
