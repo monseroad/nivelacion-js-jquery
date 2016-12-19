@@ -12,6 +12,7 @@ $(document).ready( function(){
 */
 function renderHighlightedRecipes(recipesArray) {
 	console.log('Recipes: ', recipesArray);
+
 }
 
 /*
@@ -51,6 +52,7 @@ $(document).ready(function(){
 	});
 
 //ETAPA 2
- $(function(printNews) {
+ $(function printNews (){
         $('#agregar').text('NUEVAS RECETAS');
       });
+
